@@ -21,7 +21,7 @@ Este projeto é uma animação do personagem Baby Yoda (Grogu), desenvolvida com
 
 ## Raciocínio por Trás do Projeto
 
-Este projeto foi criado para demonstrar o uso avançado de CSS na criação de animações visuais sem a necessidade de JavaScript. A escolha por usar apenas CSS reflete minha competência em trabalhar com as capacidades modernas do CSS, aproveitando ao máximo as técnicas disponíveis para criar uma experiência de usuário rica e interativa.
+Este projeto foi criado para demonstrar o uso de CSS na criação de animações visuais sem a necessidade de JavaScript. A escolha por usar apenas CSS reflete minha competência em trabalhar com as capacidades modernas do CSS, aproveitando ao máximo as técnicas disponíveis para criar uma experiência de usuário rica e interativa.
 
 ## Como Utilizar
 
